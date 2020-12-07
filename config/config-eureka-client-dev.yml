@@ -1,7 +1,2 @@
-msg:
-  hello: world
-  nihao: reye-reye-reye
-
-spring:
-  profiles:
-    active: prod
+server:
+  port: 7022
